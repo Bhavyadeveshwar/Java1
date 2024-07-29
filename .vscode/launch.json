@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Condition4",
+            "request": "launch",
+            "mainClass": "MyJava.Condition4",
+            "projectName": "Bootcamp_a73a4f41"
+        },
+        {
+            "type": "java",
+            "name": "Condition3",
+            "request": "launch",
+            "mainClass": "MyJava.Condition3",
+            "projectName": "Bootcamp_a73a4f41"
+        },
+        {
+            "type": "java",
+            "name": "Condition2",
+            "request": "launch",
+            "mainClass": "MyJava.Condition2",
+            "projectName": "Bootcamp_a73a4f41"
+        },
+        {
+            "type": "java",
+            "name": "Condition",
+            "request": "launch",
+            "mainClass": "MyJava.Condition",
+            "projectName": "Bootcamp_a73a4f41"
+        },
+        {
+            "type": "java",
             "name": "a4",
             "request": "launch",
             "mainClass": "a4",
